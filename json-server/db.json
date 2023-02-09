@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "강병준",
+      "userID": "testID1",
+      "userPWD": "testPWD1"
+    },
+    {
+      "id": 2,
+      "name": "김힘찬",
+      "userID": "testID2",
+      "userPWD": "testPWD2"
+    },
+    {
+      "id": 3,
+      "name": "우재민",
+      "userID": "testID3",
+      "userPWD": "testPWD3"
+    },
+    {
+      "id": 4,
+      "name": "이영수",
+      "userID": "testID4",
+      "userPWD": "testPWD4"
+    },
+    {
+      "id": 5,
+      "name": "정문규",
+      "userID": "testID5",
+      "userPWD": "testID5"
+    },
+    {
+      "name": "가나다",
+      "userID": "1234",
+      "userPWD": "1234",
+      "id": 6
+    }
+  ]
+}
