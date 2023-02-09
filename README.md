@@ -2,10 +2,12 @@
 
 JSON server와 React 통신을 위해 두개의 서버를 열어야합니다.
 
-서버를 열기 전 npm을 이용해 필요한 패키지를 설치해줍니다.
-``` npm i ```
+서버를 열기 전 logintest 폴더로 이동 후 npm update를 진행해줍니다.
+```
+npm update
+```
 
-1. login test 폴더로 이동 후 아래 커맨드를 입력해 React 서버를 열어줍니다. 
+1. logintest 폴더로 이동 후 아래 커맨드를 입력해 React 서버를 열어줍니다. 
 ```
 npm start
 ```
